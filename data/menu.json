@@ -1,0 +1,1294 @@
+[
+ {
+  "code": "511781",
+  "name": "培根安格斯厚牛堡",
+  "price": 34.5,
+  "originalPrice": 34.5,
+  "category": "安格斯MAX\n厚牛堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 707.0,
+   "protein": 34.0,
+   "fat": 44.0,
+   "carb": 43.0,
+   "sodium": 1037.0,
+   "calcium": 161.0
+  }
+ },
+ {
+  "code": "511782",
+  "name": "芝士安格斯厚牛堡",
+  "price": 31.5,
+  "originalPrice": 31.5,
+  "category": "安格斯MAX\n厚牛堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 696.0,
+   "protein": 32.0,
+   "fat": 44.0,
+   "carb": 43.0,
+   "sodium": 897.0,
+   "calcium": 150.0
+  }
+ },
+ {
+  "code": "2430",
+  "name": "【美汁源】“黄金橙橙”",
+  "price": 13.0,
+  "originalPrice": 13.0,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 165.0,
+   "protein": 0.0,
+   "fat": 0.0,
+   "carb": 41.0,
+   "sodium": 53.0,
+   "calcium": 0.0
+  }
+ },
+ {
+  "code": "521986",
+  "name": "马苏里拉拉丝芝士条",
+  "price": 11.0,
+  "originalPrice": 15.0,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": "促销优惠",
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900011056",
+  "name": "全明星双人分享餐八件套",
+  "price": 52.4,
+  "originalPrice": 117.0,
+  "category": "小食拼盘\n/多人餐",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "521901",
+  "name": "月下相思扭扭薯",
+  "price": 15.0,
+  "originalPrice": 15.0,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016076",
+  "name": "“我就喜欢”鸡薯双全盒",
+  "price": 15.9,
+  "originalPrice": 28.5,
+  "category": "小食拼盘\n/多人餐",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016075",
+  "name": "龙焰芝士棒鸡腿堡三件套",
+  "price": 29.9,
+  "originalPrice": 50.5,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016073",
+  "name": "龙焰鸡腿堡三件套",
+  "price": 26.9,
+  "originalPrice": 47.5,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900005460",
+  "name": "麦香鱼套餐",
+  "price": 33.5,
+  "originalPrice": 46.0,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900005462",
+  "name": "板烧鸡腿堡三件套",
+  "price": 34.5,
+  "originalPrice": 47.0,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "3755",
+  "name": "纯牛奶(盒装)",
+  "price": 10.5,
+  "originalPrice": 10.5,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 129.0,
+   "protein": 7.0,
+   "fat": 7.0,
+   "carb": 10.0,
+   "sodium": 73.0,
+   "calcium": 231.0
+  }
+ },
+ {
+  "code": "9900005464",
+  "name": "双层吉士汉堡套餐",
+  "price": 34.0,
+  "originalPrice": 46.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900004236",
+  "name": "人气超值四件套随心选",
+  "price": 29.0,
+  "originalPrice": 58.0,
+  "category": "精选单人餐",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "3757",
+  "name": "纯悦",
+  "price": 7.5,
+  "originalPrice": 7.5,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 0.0,
+   "protein": 0.0,
+   "fat": 0.0,
+   "carb": 0.0,
+   "sodium": 0.0,
+   "calcium": 0.0
+  }
+ },
+ {
+  "code": "9900005466",
+  "name": "巨无霸三件套",
+  "price": 36.5,
+  "originalPrice": 49.0,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521914",
+  "name": "“葱不求人“按摩捶痒痒挠",
+  "price": 14.9,
+  "originalPrice": 14.9,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "6362",
+  "name": "100% 苹果汁(盒装)",
+  "price": 11.5,
+  "originalPrice": 11.5,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900005449",
+  "name": "吉士汉堡包套餐",
+  "price": 26.0,
+  "originalPrice": 38.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "3010",
+  "name": "雪碧",
+  "price": 9.5,
+  "originalPrice": 9.5,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900010110",
+  "name": "鱼牛汉堡四件套随心选",
+  "price": 32.0,
+  "originalPrice": 58.5,
+  "category": "精选单人餐",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "1106",
+  "name": "培根蔬萃双层牛堡",
+  "price": 24.5,
+  "originalPrice": 24.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 442.0,
+   "protein": 24.0,
+   "fat": 23.0,
+   "carb": 34.0,
+   "sodium": 728.0,
+   "calcium": 73.0
+  }
+ },
+ {
+  "code": "521881",
+  "name": "马来咖喱风味薄皮肉骨鸡3块",
+  "price": 15.5,
+  "originalPrice": 15.5,
+  "category": "炸鸡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "1100",
+  "name": "巨无霸",
+  "price": 25.5,
+  "originalPrice": 25.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 513.0,
+   "protein": 27.0,
+   "fat": 26.0,
+   "carb": 42.0,
+   "sodium": 961.0,
+   "calcium": 171.0
+  }
+ },
+ {
+  "code": "9900005453",
+  "name": "麦香鸡套餐",
+  "price": 28.0,
+  "originalPrice": 40.5,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "507394",
+  "name": "牛奶",
+  "price": 19.0,
+  "originalPrice": 19.0,
+  "category": "麦咖啡™",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900008746",
+  "name": "鸡肉堡单品精选",
+  "price": 23.5,
+  "originalPrice": 23.5,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900008747",
+  "name": "牛肉堡单品精选",
+  "price": 14.0,
+  "originalPrice": 14.0,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "515520",
+  "name": "怡泉+C",
+  "price": 11.5,
+  "originalPrice": 11.5,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "1120",
+  "name": "双层吉士汉堡",
+  "price": 23.0,
+  "originalPrice": 23.0,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 429.0,
+   "protein": 27.0,
+   "fat": 22.0,
+   "carb": 31.0,
+   "sodium": 1017.0,
+   "calcium": 232.0
+  }
+ },
+ {
+  "code": "521966",
+  "name": "韩式烟熏芝士风味酱",
+  "price": 3.0,
+  "originalPrice": 3.0,
+  "category": "炸鸡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900008751",
+  "name": "可乐",
+  "price": 9.5,
+  "originalPrice": 9.5,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900008752",
+  "name": "派",
+  "price": 8.5,
+  "originalPrice": 8.5,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900005468",
+  "name": "培根蔬萃双层牛堡三件套",
+  "price": 35.5,
+  "originalPrice": 48.0,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900006957",
+  "name": "安格斯厚牛堡四件套随心选",
+  "price": 37.0,
+  "originalPrice": 66.0,
+  "category": "精选单人餐",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "1401",
+  "name": "麦乐鸡",
+  "price": 14.0,
+  "originalPrice": 14.0,
+  "category": "炸鸡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016082",
+  "name": "心形薯饼5块",
+  "price": 14.5,
+  "originalPrice": 14.5,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "1406",
+  "name": "板烧鸡腿堡",
+  "price": 23.5,
+  "originalPrice": 23.5,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 391.0,
+   "protein": 23.0,
+   "fat": 17.0,
+   "carb": 35.0,
+   "sodium": 1041.0,
+   "calcium": 93.0
+  }
+ },
+ {
+  "code": "9900005413",
+  "name": "双层深海鳕鱼堡三件套",
+  "price": 35.0,
+  "originalPrice": 47.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016309",
+  "name": "龙焰鸡腿堡四件套",
+  "price": 29.0,
+  "originalPrice": 57.0,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900015730",
+  "name": "BFF四宫格小食盘",
+  "price": 39.8,
+  "originalPrice": 54.5,
+  "category": "小食拼盘\n/多人餐",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521946",
+  "name": "旋旋星愿贴",
+  "price": 3.9,
+  "originalPrice": 3.9,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016311",
+  "name": "龙焰美味四件套",
+  "price": 29.0,
+  "originalPrice": 57.0,
+  "category": "人气热卖",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900016310",
+  "name": "龙焰芝士棒鸡腿堡四件套",
+  "price": 32.0,
+  "originalPrice": 57.0,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "521156",
+  "name": "那么大鸡排（椒盐风味）",
+  "price": 14.0,
+  "originalPrice": 14.0,
+  "category": "炸鸡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900004835",
+  "name": "麦乐鸡套餐",
+  "price": 25.0,
+  "originalPrice": 37.5,
+  "category": "炸鸡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "510488",
+  "name": "燕麦奶",
+  "price": 21.0,
+  "originalPrice": 21.0,
+  "category": "麦咖啡™",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "4648",
+  "name": "不素之霸双层牛堡",
+  "price": 26.5,
+  "originalPrice": 26.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 493.0,
+   "protein": 28.0,
+   "fat": 27.0,
+   "carb": 34.0,
+   "sodium": 1012.0,
+   "calcium": 75.0
+  }
+ },
+ {
+  "code": "9900005421",
+  "name": "鱼排堡开心乐园餐",
+  "price": 24.0,
+  "originalPrice": 24.0,
+  "category": "开心乐园",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900003586",
+  "name": "双层深海鳕鱼堡",
+  "price": 24.0,
+  "originalPrice": 24.0,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 485.0,
+   "protein": 28.0,
+   "fat": 21.0,
+   "carb": 46.0,
+   "sodium": 917.0,
+   "calcium": 147.0
+  }
+ },
+ {
+  "code": "9900005422",
+  "name": "汉堡开心乐园餐",
+  "price": 23.5,
+  "originalPrice": 23.5,
+  "category": "开心乐园",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900000890",
+  "name": "板烧鸡腿堡四件套",
+  "price": 28.0,
+  "originalPrice": 57.0,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900015729",
+  "name": "蘸酱BFF四宫格小食盘",
+  "price": 42.8,
+  "originalPrice": 57.5,
+  "category": "蘸酱炸鸡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900013304",
+  "name": "人气经典随心配",
+  "price": 14.9,
+  "originalPrice": 14.9,
+  "category": "随心配\n1+1",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521797",
+  "name": "北美招牌牧场酱",
+  "price": 3.0,
+  "originalPrice": 3.0,
+  "category": "炸鸡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521952",
+  "name": "龙焰鸡腿堡",
+  "price": 15.9,
+  "originalPrice": 24.0,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": "促销优惠",
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900015602",
+  "name": "大堡口福三件套",
+  "price": 22.9,
+  "originalPrice": 47.0,
+  "category": "大堡口福\n单人餐",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521953",
+  "name": "龙焰芝士棒鸡腿堡",
+  "price": 27.0,
+  "originalPrice": 27.0,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900011128",
+  "name": "“堡”你欢乐套餐",
+  "price": 28.0,
+  "originalPrice": 42.5,
+  "category": "500\n大卡套餐",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521316",
+  "name": "高达吉士双牛堡",
+  "price": 22.5,
+  "originalPrice": 22.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521954",
+  "name": "麦当劳联名复古棒球帽",
+  "price": 34.9,
+  "originalPrice": 39.9,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900011121",
+  "name": "“苹”水相“鱼”套餐",
+  "price": 36.0,
+  "originalPrice": 54.0,
+  "category": "500\n大卡套餐",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900015568",
+  "name": "精选超值随心配",
+  "price": 13.9,
+  "originalPrice": 13.9,
+  "category": "随心配\n1+1",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521956",
+  "name": "麦当劳限定丝巾",
+  "price": 34.9,
+  "originalPrice": 39.9,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900000888",
+  "name": "巨无霸四件套",
+  "price": 32.0,
+  "originalPrice": 58.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900000886",
+  "name": "不素之霸双层牛堡四件套",
+  "price": 32.0,
+  "originalPrice": 58.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900000885",
+  "name": "培根蔬萃双层牛堡四件套",
+  "price": 32.0,
+  "originalPrice": 58.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "4810",
+  "name": "薯条",
+  "price": 13.5,
+  "originalPrice": 13.5,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "510479",
+  "name": "燕麦奶铁",
+  "price": 9.9,
+  "originalPrice": 23.0,
+  "category": "麦咖啡™",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900000882",
+  "name": "芝士安格斯厚牛堡四件套",
+  "price": 37.0,
+  "originalPrice": 66.0,
+  "category": "安格斯MAX\n厚牛堡",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900005411",
+  "name": "不素之霸双层牛堡三件套",
+  "price": 37.5,
+  "originalPrice": 50.0,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900000881",
+  "name": "培根安格斯厚牛堡四件套",
+  "price": 37.0,
+  "originalPrice": 66.0,
+  "category": "安格斯MAX\n厚牛堡",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "9900004066",
+  "name": "堡堡随心拼（7件任选）",
+  "price": 72.5,
+  "originalPrice": 101.5,
+  "category": "小食拼盘\n/多人餐",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521929",
+  "name": "旋旋水手帽",
+  "price": 48.8,
+  "originalPrice": 48.8,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900004064",
+  "name": "精选单人餐三件套",
+  "price": 34.5,
+  "originalPrice": 46.0,
+  "category": "精选单人餐",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "515280",
+  "name": "阳光柠檬红茶",
+  "price": 9.5,
+  "originalPrice": 9.5,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016566",
+  "name": "心形薯饼8块",
+  "price": 9.9,
+  "originalPrice": 22.5,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": "促销优惠",
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016058",
+  "name": "鱼排堡开心乐园餐",
+  "price": 24.0,
+  "originalPrice": 24.0,
+  "category": "开心乐园",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016056",
+  "name": "麦乐鸡开心乐园餐",
+  "price": 25.0,
+  "originalPrice": 25.0,
+  "category": "开心乐园",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016057",
+  "name": "汉堡开心乐园餐",
+  "price": 23.5,
+  "originalPrice": 23.5,
+  "category": "开心乐园",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900016055",
+  "name": "开心亲子双人餐",
+  "price": 59.5,
+  "originalPrice": 59.5,
+  "category": "开心乐园",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900009242",
+  "name": "“苹板”支撑Pro套餐",
+  "price": 39.5,
+  "originalPrice": 53.5,
+  "category": "500\n大卡套餐",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "507389",
+  "name": "浓缩咖啡",
+  "price": 15.0,
+  "originalPrice": 15.0,
+  "category": "麦咖啡™",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 13.0,
+   "protein": 1.0,
+   "fat": 0.0,
+   "carb": 2.0,
+   "sodium": 0.0,
+   "calcium": 7.0
+  }
+ },
+ {
+  "code": "9900009245",
+  "name": "牛气满满套餐",
+  "price": 35.0,
+  "originalPrice": 47.5,
+  "category": "500\n大卡套餐",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "507387",
+  "name": "卡布奇诺",
+  "price": 21.0,
+  "originalPrice": 21.0,
+  "category": "麦咖啡™",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900000893",
+  "name": "双层深海鳕鱼堡四件套",
+  "price": 32.0,
+  "originalPrice": 58.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": "随单购麦金卡优惠",
+  "withOrder": {
+   "membershipCode": "106",
+   "specId": "880"
+  },
+  "nutrition": null
+ },
+ {
+  "code": "515955",
+  "name": "浓浓燕麦黑巧（冰/热）",
+  "price": 15.9,
+  "originalPrice": 23.0,
+  "category": "麦咖啡™",
+  "tags": [],
+  "discountType": "促销优惠",
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "521817",
+  "name": "【美汁源】“多汁柠柠”",
+  "price": 12.0,
+  "originalPrice": 12.0,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "6102",
+  "name": "苹果片",
+  "price": 7.0,
+  "originalPrice": 7.0,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 32.0,
+   "protein": 0.0,
+   "fat": 0.0,
+   "carb": 7.0,
+   "sodium": 0.0,
+   "calcium": 18.0
+  }
+ },
+ {
+  "code": "9900005428",
+  "name": "培根安格斯厚牛堡三件套",
+  "price": 45.5,
+  "originalPrice": 58.0,
+  "category": "安格斯MAX\n厚牛堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "1450",
+  "name": "麦香鸡",
+  "price": 17.0,
+  "originalPrice": 17.0,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 369.0,
+   "protein": 15.0,
+   "fat": 17.0,
+   "carb": 39.0,
+   "sodium": 731.0,
+   "calcium": 73.0
+  }
+ },
+ {
+  "code": "520445",
+  "name": "薄皮焦香V翅",
+  "price": 16.0,
+  "originalPrice": 16.0,
+  "category": "炸鸡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 192.0,
+   "protein": 17.0,
+   "fat": 11.0,
+   "carb": 6.0,
+   "sodium": 594.0,
+   "calcium": 15.0
+  }
+ },
+ {
+  "code": "520689",
+  "name": "鲜萃咖啡",
+  "price": 9.5,
+  "originalPrice": 9.5,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "507409",
+  "name": "麦咖啡™奶铁",
+  "price": 13.9,
+  "originalPrice": 21.0,
+  "category": "麦咖啡™",
+  "tags": [],
+  "discountType": "促销优惠",
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "3505",
+  "name": "锡兰红茶",
+  "price": 11.5,
+  "originalPrice": 11.5,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 2.0,
+   "protein": 0.0,
+   "fat": 0.0,
+   "carb": 0.0,
+   "sodium": 0.0,
+   "calcium": 5.0
+  }
+ },
+ {
+  "code": "1600",
+  "name": "麦香鱼",
+  "price": 22.5,
+  "originalPrice": 22.5,
+  "category": "巨无霸\n牛鱼肉堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": {
+   "kcal": 325.0,
+   "protein": 16.0,
+   "fat": 13.0,
+   "carb": 35.0,
+   "sodium": 556.0,
+   "calcium": 99.0
+  }
+ },
+ {
+  "code": "507411",
+  "name": "麦咖啡™美式",
+  "price": 11.9,
+  "originalPrice": 19.0,
+  "category": "麦咖啡™",
+  "tags": [],
+  "discountType": "促销优惠",
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900003538",
+  "name": "学生专享饮品随心选",
+  "price": 10.0,
+  "originalPrice": 10.0,
+  "category": "饮品",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900003537",
+  "name": "学生专享汉堡小食随心选",
+  "price": 27.0,
+  "originalPrice": 27.0,
+  "category": "鸡肉汉堡\n/卷",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "9900005430",
+  "name": "芝士安格斯厚牛堡三件套",
+  "price": 42.5,
+  "originalPrice": 55.0,
+  "category": "安格斯MAX\n厚牛堡",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "4437",
+  "name": "玉米杯",
+  "price": 13.0,
+  "originalPrice": 13.0,
+  "category": "小食甜品\n/其他",
+  "tags": [],
+  "discountType": null,
+  "withOrder": null,
+  "nutrition": null
+ },
+ {
+  "code": "515946",
+  "name": "浓浓黑巧（冰/热）",
+  "price": 13.9,
+  "originalPrice": 21.0,
+  "category": "麦咖啡™",
+  "tags": [],
+  "discountType": "促销优惠",
+  "withOrder": null,
+  "nutrition": null
+ }
+]
