@@ -4,7 +4,7 @@
 
 给定热量上限、蛋白质下限和预算，枚举门店在售套餐的全部合法换购组合，输出满足约束的方案，并用官方 `calculate-price` 复核实付价。
 
-![demo](docs/demo.png)
+![demo](https://cdn.jsdelivr.net/gh/3436872746/mcd-swap@145a693/docs/demo.png)
 
 ## 背景
 
@@ -12,7 +12,7 @@
 
 以单店为例：102 个在售 SKU，每份套餐 2–4 轮选配，每轮 6–25 个可替换项，合法组合共 18,928 种。人工枚举不现实。
 
-![流程](docs/flow.png)
+![流程](https://cdn.jsdelivr.net/gh/3436872746/mcd-swap@145a693/docs/flow.png)
 
 本工具把这些组合全部展开，按约束过滤排序，再对入选方案做价格复核。
 
