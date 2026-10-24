@@ -4,11 +4,15 @@
 
 给定热量上限、蛋白质下限和预算，枚举门店在售套餐的全部合法换购组合，输出满足约束的方案，并用官方 `calculate-price` 复核实付价。
 
+![demo](docs/demo.png)
+
 ## 背景
 
 麦当劳 App 按套餐售卖，选配只能在预设组合内调整。而实际需求常常是反向的：给定热量、蛋白质和预算，反推应该怎么选。
 
 以单店为例：102 个在售 SKU，每份套餐 2–4 轮选配，每轮 6–25 个可替换项，合法组合共 18,928 种。人工枚举不现实。
+
+![流程](docs/flow.png)
 
 本工具把这些组合全部展开，按约束过滤排序，再对入选方案做价格复核。
 
@@ -23,7 +27,7 @@ cd mcd-swap
 # Token 申请：https://open.mcd.cn/mcp → 登录 → 控制台 → 激活
 export MCD_MCP_TOKEN=你的token
 
-python -m mcd_swap --kcal 500 --protein 25 --budget 25 --top 3 --check
+python -m mcd_swap --kcal 500 --protein 25 --budget 25 --top 2 --check
 ```
 
 输出：
